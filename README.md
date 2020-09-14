@@ -1,2 +1,2 @@
 # myactions
-This repository contains PHP Lumen samples.
+This repository contains PHP Laravel Lumen samples.
